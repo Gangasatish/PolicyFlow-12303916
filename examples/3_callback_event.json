@@ -1,0 +1,7 @@
+{
+  "event_id": "EVT-2026-88910",
+  "policy_request_id": 1,
+  "event_type": "POLICY_ISSUED",
+  "policy_number": "POL-CALLBACK-98765",
+  "provider_reference": "REF-CB-12345"
+}
